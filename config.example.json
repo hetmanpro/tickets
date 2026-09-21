@@ -1,0 +1,7 @@
+{
+  "_comment": "Скопіюй цей файл у config.json (без .example) і встав свої дані з Twilio Console.",
+  "twilioAccountSid": "AC9e48ebb916e50bc4fcc5935a5a6b68e4",
+  "twilioAuthToken": "ff8d4ff6dee61d84b67133de7478aba7",
+  "twilioFromNumber": "+4915888623971",
+  "twilioToNumber": "+34623528990"
+}
